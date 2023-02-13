@@ -1,0 +1,4 @@
+address USB0::0x0957::0xA007::205D388B5950::0::INSTR
+port com5
+baud 1000000
+cmd 01 e0 fc 0b 04 01
